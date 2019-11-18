@@ -8,7 +8,7 @@ Repositori ini berisi dokumentasi kajian [Ustadz Ahmad Djalaluddin](https://t.me
 
 Kajian dilaksanakan pada tanggal 13 Rabiul Awwal 1441 / 10 November 2019.
 
-- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-ahmad-djalaluddin/raw/master/melangkah_membangun_bahagia_dalam_rumah_tangga.MP3/audio_melangkah_membangun_bahagia_dalam_rumah_tangga.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-ahmad-djalaluddin/raw/master/melangkah_membangun_bahagia_dalam_rumah_tangga/audio_melangkah_membangun_bahagia_dalam_rumah_tangga.MP3)
 
 #### Tatanan Berkeluarga di Dalam Islam
 
