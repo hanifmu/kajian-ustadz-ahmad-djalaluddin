@@ -8,7 +8,9 @@ Repositori ini berisi dokumentasi kajian [Ustadz Ahmad Djalaluddin](https://t.me
 
 - [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-ahmad-djalaluddin/raw/master/tatanan_berkeluarga_di_dalam_islam/audio_kajian-2.MP3) - 13 Rabiul Awwal 1441 / 10 November 2019.
 
-- [Download audio kajian #3](https://github.com/hanifmu/kajian-ustadz-ahmad-djalaluddin/raw/master/tatanan_berkeluarga_di_dalam_islam/audio_kajian-3.MP3)
+- [Download audio kajian #3](https://github.com/hanifmu/kajian-ustadz-ahmad-djalaluddin/raw/master/tatanan_berkeluarga_di_dalam_islam/audio_kajian-3.MP3) - 17 Jumadil Awwal 1441 / 12 Januari 2020
+
+- [Download audio kajian #4](https://github.com/hanifmu/kajian-ustadz-ahmad-djalaluddin/raw/master/tatanan_berkeluarga_di_dalam_islam/audio_kajian-4.MP3) - 17 Jumadil Akhir 1441 / 9 Februari 2020
 
 
 ## Tematik
